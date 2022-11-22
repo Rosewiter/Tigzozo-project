@@ -591,6 +591,16 @@ p,h1,h2,h3,h4,h5,h6{
   .dropbtn:hover{
     color: #742296;
   }
+  
+.material-symbols-outlined {
+    font-size: 30px;
+    color: var(--secondary-color);
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
 
 
 
